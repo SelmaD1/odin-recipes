@@ -1,2 +1,2 @@
 # odin-recipes
-Learning in progress... 
+Learning
