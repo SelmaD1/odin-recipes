@@ -1,0 +1,22 @@
+*{
+    background-color: #C7D3DD;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align:center;
+}
+
+h1{
+    font-weight: 400;
+   font-size: large;
+
+}
+
+.picture{
+    height: 300px;
+    width: 500px;
+}
+
+.preparation{
+    width: 700px;
+    margin: auto;
+}
+
